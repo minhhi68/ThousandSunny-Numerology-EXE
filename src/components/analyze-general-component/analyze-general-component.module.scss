@@ -1,0 +1,29 @@
+.body {
+    background-image: url('../../assets/images/39632-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    color: white;
+    font-size: 1.5rem;
+    /* Optional: Keeps the background fixed while scrolling */
+}
+
+.mainNumber {
+    color: rgba(129, 86, 86, 1);
+    font-size: 16rem;
+}
+
+.content {
+    margin-top: 2rem;
+    background: rgba(0, 0, 0, 0.4);
+    width: 70%;
+    padding: 2rem;
+    border-radius: 20px;
+}

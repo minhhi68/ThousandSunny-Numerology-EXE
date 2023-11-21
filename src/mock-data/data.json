@@ -1,0 +1,158 @@
+{
+  "ACCOUNT": [
+    {
+      "id": 1,
+      "userName": "dat",
+      "password": "123",
+      "vipId": 0
+    },
+    {
+      "id": 2,
+      "userName": "world",
+      "password": "113",
+      "vipId": 2
+    }
+  ],
+  "VIP_PACKAGE_DATA": [
+    {
+      "id": 1,
+      "type": "Gói 1 người",
+      "price": "330.000đ - 30%",
+      "priceAfterDiscount": "231.000đ"
+    },
+    {
+      "id": 2,
+      "type": "Gói 2 người",
+      "price": "660.000đ - 30%",
+      "priceAfterDiscount": "462.000đ"
+    },
+    {
+      "id": 3,
+      "type": "Gói 3 người",
+      "price": "990.000đ - 30%",
+      "priceAfterDiscount": "693.000đ"
+    },
+    {
+      "id": 4,
+      "type": "Gói 4 người",
+      "price": "1.320.000đ - 30%",
+      "priceAfterDiscount": "924.000đ"
+    },
+    {
+      "id": 5,
+      "type": "Gói 5 người",
+      "price": "1.650.000đ - 30%",
+      "priceAfterDiscount": "1.155.000đ"
+    }
+  ],
+  "years": [
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026",
+    "2027",
+    "2028"
+  ],
+  "astroData": [
+    {
+      "mainNumber": 1,
+      "zodiac": "Nhân mã",
+      "generalInformation": "Bạn là người: <br/>- Sống nội tâm và rất trầm tính, dễ thỏa mãn. <br/>- Bí ẩn, khéo léo, tinh tế, có trực giác nhạy bén và rất quan tâm tới người thân và bạn bè của mình. <br/>- Đa nghi và hay ghen tuông, sợ bị tổn thương, là một người biết nhẫn nhịn và sẽ không tha thứ khi bị phản bội hay lừa gạt.<br/>",
+      "detailInfo": "Năm 2023 là năm thế giới số 7( ảnh hưởng đến toàn nhân loại), năm cá nhân của bạn là 4. Bạn nên cân nhắc để chắc chắn những việc mình làm và sau đây là những điều bạn cần lưu ý trong năm nay:<br/> Điểm nổi bật nhất của bạn là tính độc lập, tự tin và là chỗ dựa đáng tin cậy cho người khác. Chính vì vậy, họ thường là người gánh vác là người chủ chốt trong nhóm hoặc trong tổ chức. Khả năng chịu áp lực, điều hành là thế mạnh vượt trội của người có số 8. Năm cá nhân số 4 có thể là năm kìm hãm năng lượng của bạn.<br/>Bạn có cá tính mạnh nên có hai phương diện mà họ cảm thấy khó diễn đạt nhất đó là biểu đạt lòng biết ơn và sự trân trọng với người khác. Đây là một yếu tố quan trọng để xây dựng mối quan hệ tốt đẹp giữa người với người. Bước vào vận niên cá nhân số 4 là cơ hội tốt để bạn nhìn nhận ra vấn đề và cải thiện điều này một cách tốt nhất. Bạn cần phải vượt qua giới hạn bản thân để cải thiện chất lượng các mối quan hệ.<br/>Trở ngại của bạn là thể hiện tình cảm của mình với người khác. Bạn có lòng trắc ẩn nhưng lại không biết cách thể hiện hoặc biểu hiện của bạn khiến mọi người xung quanh hiểu không đúng về ý tốt thật sự trong lòng, đặc biệt với gia đình. Năm cá nhân số 4 là năm để bạn có thể cân bằng lại giữa tính độc lập và cách biểu hiện cảm xúc của mình.",
+      "personality": "- Bạn là người thực tế, độc lập thích làm việc một mình, luôn dành thời gian cho công việc và sự nghiệp. Đôi khi vì quá chú tâm vào công việc đẫn tới  dễ bị stress khiến bạn làm người khác tổn thương. Có mục tiêu trong cuộc sống, cân đo lợi ích và tập trung vào kết quả.<br/>- Bạn khéo léo, tinh tế, có trực giác nhạy bén và quan tâm tới người thân, bạn bè của mình.",
+      "yearCircle": [
+        2,
+        4,
+        6,
+        8,
+        1,
+        2,
+        5,
+        9,
+        5,
+        4
+      ]
+    },
+    {
+      "mainNumber": 2,
+      "zodiac": "Bạch Dương",
+      "generalInformation": "Bạn là người:<br/>- Tự tin, quyết đoán và năng động.<br/>- Thích thách thức và luôn tìm kiếm cơ hội mới.<br/>- Có tính lãnh đạo mạnh mẽ và thường nổi loạn.<br/>",
+      "detailInfo": "Năm 2023 là năm thế giới số 7 (ảnh hưởng đến toàn nhân loại), năm cá nhân của bạn là 2. Bạn cần tập trung vào mối quan hệ và hòa giải trong năm nay. Sức mạnh lãnh đạo của bạn sẽ được thể hiện qua việc giúp đỡ người khác và tạo môi trường hòa thuận.<br/>Bạn có sức mạnh và quyết tâm để vượt qua mọi thách thức, nhưng đừng quên chăm sóc tâm hồn và tạo cơ hội cho tình yêu và mối quan hệ.",
+      "personality": "- Bạn là người năng động, luôn tìm kiếm sự thú vị và hào hứng trong cuộc sống.<br/>- Bạn có tinh thần độc lập và luôn sẵn sàng đối mặt với khó khăn.",
+      "yearCircle": [
+        1,
+        3,
+        5,
+        7,
+        2,
+        4,
+        8,
+        9,
+        6,
+        1
+      ]
+    },
+    {
+      "mainNumber": 3,
+      "zodiac": "Kim Ngưu",
+      "generalInformation": "Bạn là người:<br/>- Kiên nhẫn, ổn định và trung thực.<br/>- Yêu thích sự thoải mái và thường có gu thẩm mỹ tốt.<br/>- Rất chú tâm đến tài chính và bảo vệ gia đình.<br/>",
+      "detailInfo": "Năm 2023 là năm thế giới số 7 (ảnh hưởng đến toàn nhân loại), năm cá nhân của bạn là 3. Bạn cần tập trung vào sáng tạo và phát triển bản thân trong năm nay. Sự kiên nhẫn của bạn sẽ giúp bạn đạt được mục tiêu và thành công trong công việc và cuộc sống cá nhân.<br/>Hãy dành thời gian để thể hiện sự yêu thích của bạn đối với nghệ thuật và thẩm mỹ.",
+      "personality": "- Bạn là người kiên nhẫn và trung thực, luôn đặt gia đình và người thân lên hàng đầu.<br/>- Bạn thích sự ổn định và thoải mái trong cuộc sống.",
+      "yearCircle": [
+        3,
+        6,
+        9,
+        2,
+        5,
+        8,
+        1,
+        4,
+        7,
+        3
+      ]
+    },
+    {
+      "mainNumber": 4,
+      "zodiac": "Song Tử",
+      "generalInformation": "Bạn là người:<br/>- Thông minh, linh hoạt và tò mò.<br/>- Thích giao tiếp và luôn muốn học hỏi điều mới.<br/>- Có khả năng thích ứng nhanh chóng và thích thách thức tư duy.<br/>",
+      "detailInfo": "Năm 2023 là năm thế giới số 7 (ảnh hưởng đến toàn nhân loại), năm cá nhân của bạn là 4. Bạn nên tận dụng sự thông minh và linh hoạt của mình để tạo ra cơ hội mới trong năm nay. Hãy tập trung vào việc phát triển kỹ năng giao tiếp và xây dựng mối quan hệ xã hội tốt đẹp.<br/>Bạn có tiềm năng để đạt được nhiều thành công trong lĩnh vực liên quan đến trí tuệ và truyền thông.",
+      "personality": "- Bạn là người tò mò và thích học hỏi điều mới.<br/>- Bạn có tài năng trong việc thích ứng và thách thức tư duy.",
+      "yearCircle": [
+        4,
+        8,
+        3,
+        7,
+        2,
+        6,
+        1,
+        5,
+        9,
+        4
+      ]
+    },
+    {
+      "mainNumber": 5,
+      "zodiac": "Cự Giải",
+      "generalInformation": "Bạn là người:<br/>- Đảm đang, nhạy cảm và quan tâm đến cảm xúc của người khác.<br/>- Yêu thích gia đình và luôn sẵn sàng bảo vệ người thân yêu.<br/>- Thường có trí tưởng tượng sáng tạo và biểu hiện cảm xúc một cách nghệ thuật.<br/>",
+      "detailInfo": "Năm 2023 là năm thế giới số 7 (ảnh hưởng đến toàn nhân loại), năm cá nhân của bạn là 5. Bạn nên tập trung vào tình yêu và quan hệ gia đình trong năm nay. Sự đảm đang và nhạy cảm của bạn sẽ giúp bạn tạo ra môi trường ấm áp và hạnh phúc cho người thân.<br/>Hãy khám phá sự sáng tạo trong bạn và biểu hiện cảm xúc thông qua nghệ thuật hoặc viết lách.",
+      "personality": "- Bạn là người đảm đang và quan tâm đến cảm xúc của người khác.<br/>- Bạn thường có sự trí tưởng tượng sáng tạo và yêu thích nghệ thuật.",
+      "yearCircle": [
+        5,
+        1,
+        6,
+        2,
+        7,
+        3,
+        8,
+        4,
+        9,
+        5
+      ]
+    }
+  ]
+}

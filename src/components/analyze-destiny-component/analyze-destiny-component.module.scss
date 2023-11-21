@@ -1,0 +1,31 @@
+.body {
+    background-image: url('../../assets/images/39632-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    color: white;
+    font-size: 1.5rem;
+    /* Optional: Keeps the background fixed while scrolling */
+}
+
+.input {
+    background-color: rgba(217, 217, 217, 1);
+    width: 35rem;
+    height: 3rem;
+}
+
+.checkbox {
+    width: 30px;
+    height: 30px;
+}
+
+.gender {
+    width: 14rem !important;
+}

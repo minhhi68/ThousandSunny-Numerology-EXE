@@ -1,0 +1,76 @@
+.body {
+    background-image: url('../../assets/images/39632-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    color: white;
+    font-size: 1.5rem;
+    /* Optional: Keeps the background fixed while scrolling */
+}
+
+.subContainer {
+    background-color: white;
+    border-radius: 5px;
+    margin: .5rem;
+    color: black;
+    padding: 2rem;
+    width: 80%;
+}
+
+.button {
+    background-color: rgba(255, 206, 206, 1);
+    border-radius: 30px;
+    font-weight: bold;
+    margin: .5rem;
+    padding: .5rem 1rem;
+    width: 100%;
+}
+
+.button:hover,
+.buttonComplete:hover {
+    opacity: 0.5;
+}
+
+.paymented {
+    background-color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+
+.circleContainer {
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgba(255, 206, 206, 1);
+    /* Circle border color */
+    border-radius: 50%;
+    /* Make it a circle */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 2rem;
+}
+
+.textBottom {
+    margin: 2rem 0;
+}
+
+.buttonComplete {
+    background-color: rgba(255, 206, 206, 1);
+    border-radius: 30px;
+    font-weight: bold;
+    margin: .5rem;
+    padding: .5rem 1rem;
+    width: 10%;
+}

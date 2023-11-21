@@ -1,0 +1,21 @@
+.body {
+    background-image: url('../../assets/images/39632-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    /* Optional: Keeps the background fixed while scrolling */
+}
+
+/* Style for the button that makes it look like a link */
+.linkButton {
+    background: none;
+    border: none;
+    color: rgba(255, 206, 206, 1);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.linkButton:hover {
+    opacity: 0.5;
+}

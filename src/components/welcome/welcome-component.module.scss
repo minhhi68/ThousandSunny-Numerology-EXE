@@ -1,0 +1,54 @@
+.body {
+    background-image: url('../../assets/images/background_image.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    /* Optional: Keeps the background fixed while scrolling */
+}
+
+.text {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    color: white;
+    margin-top: 1rem;
+}
+
+p {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.4);
+    font-size: 1.5rem;
+    margin: 100px 50px;
+    padding: 60px;
+    border-radius: 20px;
+    opacity: 0;
+    animation: fade-in 1s ease-in-out forwards;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    background-color: rgba(255, 255, 255, 1);
+    color: black;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
