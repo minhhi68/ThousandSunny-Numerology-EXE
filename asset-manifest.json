@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ThousandSunny-Numerology-EXE/static/css/main.b8bd4e71.css",
+    "main.js": "/ThousandSunny-Numerology-EXE/static/js/main.c384a62a.js",
+    "static/js/787.7ac80f56.chunk.js": "/ThousandSunny-Numerology-EXE/static/js/787.7ac80f56.chunk.js",
+    "static/media/background_image.png": "/ThousandSunny-Numerology-EXE/static/media/background_image.f784673f3d4479036e1d.png",
+    "static/media/39632-1.png": "/ThousandSunny-Numerology-EXE/static/media/39632-1.846443bb9c276a66a736.png",
+    "static/media/logo.png": "/ThousandSunny-Numerology-EXE/static/media/logo.17f3b1e0d053ec90eba9.png",
+    "index.html": "/ThousandSunny-Numerology-EXE/index.html",
+    "main.b8bd4e71.css.map": "/ThousandSunny-Numerology-EXE/static/css/main.b8bd4e71.css.map",
+    "main.c384a62a.js.map": "/ThousandSunny-Numerology-EXE/static/js/main.c384a62a.js.map",
+    "787.7ac80f56.chunk.js.map": "/ThousandSunny-Numerology-EXE/static/js/787.7ac80f56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8bd4e71.css",
+    "static/js/main.c384a62a.js"
+  ]
+}
